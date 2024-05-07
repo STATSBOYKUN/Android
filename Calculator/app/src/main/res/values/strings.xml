@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="side_length">Side Length :</string>
+    <string name="square_area">Square Area :</string>
+    <string name="area_side_x_side">Area = side x side</string>
+    <string name="formula">Formula :</string>
+    <string name="square_calculator">Square Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_side_lenght">Enter Side Lenght</string>
+    <string name="e_g_4_5">e.g 4.5</string>
+    <string name="result">Result</string>
+</resources>
